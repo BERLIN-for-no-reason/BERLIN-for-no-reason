@@ -1,7 +1,7 @@
 # 👩‍💻 Chahd El Bachiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Application+Development+Student;First+Year;Beginner+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Application+Development;Student;First+Year;Beginner+Programmer" alt="Typing SVG" />
 </div>
 
 <div align="center">
