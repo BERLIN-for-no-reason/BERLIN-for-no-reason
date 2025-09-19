@@ -91,8 +91,7 @@ Hey there! I'm **Chahd El Bachiri**, a passionate first-year **Application Devel
 </div>
 
 - Love listening to music while coding
-- Coffee is my coding fuel
-- Early bird - most productive in the morning
+- Tea is my coding fuel
 - Always excited about new tech trends
 - Enjoy gaming in my free time
 
