@@ -136,7 +136,7 @@ Hey there! I'm **Chahd El Bachiri**, a passionate first-year **Application Devel
 </div>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lemon.jpg" width="200" alt="Lemon"/>
+  <img src="https://t3.ftcdn.net/jpg/16/04/76/18/360_F_1604761864_GOxCT2rS4OUHoAnTaOH0OYPhb3iTf1pr.jpg" width="200" alt="Lemon"/>
 </p>
 
 
