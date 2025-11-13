@@ -135,6 +135,11 @@ Hey there! I'm **Chahd El Bachiri**, a passionate first-year **Application Devel
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+learning,+keep+growing!;See+you+in+the+code!;Happy+Coding!" alt="Footer Animation" />
 </div>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lemon.jpg" width="200" alt="Lemon"/>
+</p>
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=octocat&style=flat-square&color=00D4FF&label=Profile+Views" alt="Profile Views" />
 </div>
