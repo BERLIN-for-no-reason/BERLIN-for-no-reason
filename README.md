@@ -82,6 +82,14 @@ Hey there! I'm **Chahd El Bachiri**, a passionate first-year **Application Devel
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubuserco>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubuserc>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/c>
+</picture>
+
+---
+
 ## Fun Facts About Me
 
 <div align="center">
